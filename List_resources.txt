@@ -1,0 +1,7 @@
+List of resources:
+
+https://discussions.udacity.com/t/final-project-code/199246/11
+https://discussions.udacity.com/t/project-fear-strugging-with-machine-learning-project/198529/38
+https://discussions.udacity.com/t/featureformat-function-not-doing-its-job/192923/17
+https://discussions.udacity.com/t/eda-on-financial-features/192556/10
+https://discussions.udacity.com/t/getting-pipeline-to-work-with-tree-pca/200982/2
