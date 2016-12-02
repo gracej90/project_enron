@@ -146,7 +146,7 @@ sS'copy'
 p62
 I01
 sbtp63
-a(S'skb'
+a(S'SKB'
 p64
 g0
 (csklearn.feature_selection.univariate_selection
@@ -201,7 +201,7 @@ csklearn.feature_selection.univariate_selection
 f_classif
 p85
 sbtp86
-a(S'nb'
+a(S'CLF'
 p87
 g0
 (csklearn.naive_bayes
